@@ -12,6 +12,7 @@ function App() {
       <Hero/>
       <Analytics/>
       <Newsletter/>
+      <Cards/>
     </div>
   );
 }
